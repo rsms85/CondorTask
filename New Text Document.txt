@@ -1,0 +1,5 @@
+http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/GliderGeek/GOC/master/task/task.OGN
+http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/GliderGeek/GOC/master/task/task.OGN
+C:\Users\rmunnigschmidt\Documents\Condor\task.txt
+
+http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=C:\Users\rmunnigschmidt\Documents\Condor\task.OGN
