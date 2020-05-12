@@ -1,13 +1,15 @@
 {"tasks": [
-    {"name": "NonFlapped", "color": "ff0d31",
+    {"name": "Date_NF", "color": "ff0d31",
 	"legs": [ 
-	[,],[],
-	[,],[] ] },
+	[,],
+	[,],[500],
+	[,] ] },
 	
-	{"name": "Flapped","color": "043ab0",
+	{"name": "Date_F","color": "043ab0",
 	"legs": [ 
-    [,],[],
-	[,],[] ] }
+    [,],
+	[,],[500],
+	[,] ] }
 ]}
 
 	[X,Y],[H] delete me!!
