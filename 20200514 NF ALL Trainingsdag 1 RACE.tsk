@@ -1,0 +1,35 @@
+<Task fai_finish="0" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="MSL" start_max_height="1400"  start_max_speed="0" start_requires_arm="0" aat_min_time="0" type="RT">
+       <Point type="Start">
+               <Waypoint altitude="55" comment="Alt. limits=0-1400" id="0" name="TLFP2 EW[0-14]">
+                       <Location latitude="52.04833" longitude="5.92667"/>
+               </Waypoint>
+               <ObservationZone length="10000" type="Line"/>
+       </Point>
+       <Point type="Turn">
+               <Waypoint altitude="8" comment="Alt. limits=0-2300" id="0" name="Vught[0-23]">
+                       <Location latitude="51.66500" longitude="5.30000"/>
+               </Waypoint>
+               <ObservationZone radius="500" type="Cylinder"/>
+       </Point>
+       <Point type="Turn">
+               <Waypoint altitude="19" comment="Alt. limits=0-2300" id="0" name="Kamp-Lintfort[0-23]">
+                       <Location latitude="51.52939" longitude="6.53615"/>
+               </Waypoint>
+               <ObservationZone radius="500" type="Cylinder"/>
+       </Point>
+       <Point type="Turn">
+               <Waypoint altitude="17" comment="Alt. limits=0-2300" id="0" name="Ellecom[0-23]">
+                       <Location latitude="52.03667" longitude="6.09167"/>
+               </Waypoint>
+               <ObservationZone radius="500" type="Cylinder"/>
+       </Point>
+       <Point type="Finish">
+               <Waypoint altitude="71" comment="Alt. limits=0-2300" id="0" name="TLFP1 NS[0-23]">
+                       <Location latitude="52.05833" longitude="5.94167"/>
+               </Waypoint>
+               <ObservationZone length="2000" type="Line"/>
+       </Point>
+</Task>
+
+<!-- created by CoTaCo V 2.1.6.2 -->
+
