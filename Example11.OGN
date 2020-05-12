@@ -1,6 +1,6 @@
 {"tasks": [
     {"name": "GoZC MOW", "color": "0000FF",
-	"wlist": ["DDDEFB", "4852FD", "LOA"],
+	"wlist": ["DDDEFB", "4852FD", "LOA", "R.MS"],
 	"legs": [ 
 	[52.1766667,5.17916667],[500],
 	[52.0432167,5.5561333],[500],
