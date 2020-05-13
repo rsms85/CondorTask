@@ -1,0 +1,225 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.54400634766" latitude="52.6443913584"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.20343017578" latitude="52.6493906223"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.19793701172" latitude="52.4774220269"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.40667724609" latitude="52.4774220269"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.19519042969" latitude="52.4774220269"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.20343017578" latitude="52.3131750274"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.51928710937" latitude="52.304778684"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.71154785156" latitude="52.2997401136"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.71978759766" latitude="52.6427248101"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.03015136719" latitude="52.3014197008"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.04388427734" latitude="52.6410581983"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.28833007812" latitude="52.6360579818"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.28558349609" latitude="52.2829407378"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.28558349609" latitude="52.4724031255"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.60693359375" latitude="52.6293901374"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.28558349609" latitude="52.4724031255"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.60418701172" latitude="52.2812604498"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.94201660156" latitude="52.0605914681"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.93377685547" latitude="51.7572949704"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.70306396484" latitude="51.7589950561"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.70581054687" latitude="52.0521472952"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.9365234375" latitude="52.0555251559"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.21142578125" latitude="52.0386332985"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.44213867187" latitude="52.0470800253"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.44213867187" latitude="51.9015738364"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.20593261719" latitude="51.8897095081"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.20593261719" latitude="51.7470931122"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.46411132812" latitude="51.7589950561"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.67034912109" latitude="51.7470931122"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.68957519531" latitude="52.0453908076"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.93676757812" latitude="52.0352541608"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.94226074219" latitude="51.7572949704"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.28582763672" latitude="51.7453925784"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.29132080078" latitude="51.9032684847"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.52203369141" latitude="51.9032684847"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.53302001953" latitude="52.0521472952"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="5.28857421875" latitude="52.0538362574"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+</Task>
+
