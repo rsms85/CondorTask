@@ -25,7 +25,7 @@ http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubu
 http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/Example10.OGN
 
 
-
+http://live.glidernet.org/#w=0&c=52.26829,6.30520&z=9&m=3&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/ENK_ALL.OGN
 
 E-NK 2020
 Waiting task:
