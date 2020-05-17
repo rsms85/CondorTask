@@ -14,11 +14,13 @@ http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubus
 https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200514_All.OGN
 http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/ENK_TDG1.OGN
 
+https://raw.githubusercontent.com/rsms85/PRaTgres/master/20200522_All.OGN
+
 Alpen opdr:
 
 Real Life:
 http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/tasks_example2.txt
-http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/task.OGN
+http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/rsms85/PRaTgres/master/20200528_NF.OGN
 http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/task2.OGN
 http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/Example.OGN
 http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/Example7.OGN
