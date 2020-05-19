@@ -12,7 +12,7 @@ http://www.cunimb.net/condor/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.gith
 Terlet opdr:
 http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200514_All.OGN
 https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200514_All.OGN
-http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/ENK2020WL2.OGN
+http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/New%20test1.OGN
 
 https://raw.githubusercontent.com/rsms85/PRaTgres/master/20200522_All.OGN
 
@@ -43,7 +43,7 @@ Dag 1:
 http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200518_All.OGN
 
 Dag 2:
-http://www.cunimb.net/condor/#w=0&c=52.24478,5.87242&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200519_All.OGN
+http://www.cunimb.net/condor/#w=0&c=52.24478,5.87242&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200519_AllWL.OGN
 
 Dag 3:
 http://www.cunimb.net/condor/#w=0&c=52.44454,6.92896&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200521_All.OGN
