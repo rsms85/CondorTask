@@ -1,0 +1,9 @@
+{"tasks": [
+    {"name": "20200522_NF", "color": "ff0d31",
+	"wlist": ["J.vanValkengoed_AN"; "R.Meesters_SA"; "T.Wolff_TW"; "S.vdEijkel_2CB"; "R.deMuynck_RJM"; "J.Kemps_BTS"; "N.Boeve_6"; "R.deBoer_RDB"; "H.Bodde_22T"; "E.Baltussen_XS"; "R.Janssen_79"; "T.Kremers_777"; "S.Thielemans_ST"; "P.Hoeve_3A"; "T.Bastiaanse_SHT"; "O.Philipse_OP1"; "J.vanDrunen_JVD"; "D.Riks_MX6"; "B.Janssen_D33"; "B.Meenderman_BAR"; "P.Kremer_P19"; "F.Tienen_FVT"; "R.deVries_723"; "T.Peter_EV4"; "R.vanNispen_GER"; "L.vanZomeren_SKY"; "M.Guldermans_MG"; "M.Hebels_033"; "R.Koning_REY"; "M.Feber_11"; "R.Dutch_ANG"; "D.GrundAir_XK"; "J.vanDijk_KM"; "S.vanLoon_M7"; "T.Hielkema_HI"; "J.Mackay_JM"; "S.Hofstee_BS"; "J.Petit_KD"; "J.Vis_HE"; "M.vandenHam_HAM"; "M.Kleijn_L8"; "R.Smit_RSM"; "B.Geys_CEO"; "R.MunnigSchmidt_LOA"; "J.Lachmeijer_J6"; "J.vanAkker_24K"; "J.Snijkers_JSN"; "P.Hielkema_HIE"; "W.Groeneveld_WFG"; "S.Lanting_RAT"; "D.Postuma_DP"; "F.Hiemstra_74"; "N.Zuiderveld_NZ2"; "M.Kooreman_GO4"; "C.DeWagter_4"; "M.Eerdekens_KB5"; "R.Deerenberg_BVO"; "T.Kuijpers_KP"; "R.Leenheer_PL"; "A.Kupper_ADK"; "J.Heesakkers_JH"; "B.Leysen_B9"; "M.VanEynde_VEM"; "Q.Hermans_REA"; "J.Jennen_JJJ"],
+	"legs": [ 
+	[45.23667,5.76167],["L",2500],
+	[45.39755,6.63500],[500],
+	[44.93417,6.08695],[500],
+	[45.21845,5.84658],["L",1000] ] }
+]}
