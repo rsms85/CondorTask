@@ -26,7 +26,7 @@ http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubu
 http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/Example7.OGN
 http://live.glidernet.org/#w=0&c=52.09302,5.34061&z=10&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/Example10.OGN
 
-http://live.glidernet.org/#w=0&c=52.26829,6.30520&z=9&m=3&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/AirspaceTest.OGN
+http://live.glidernet.org/#w=0&c=52.26829,6.30520&z=9&m=3&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200521_AllLine2.OGN
 http://live.glidernet.org/#w=0&c=52.26829,6.30520&z=9&m=3&n=0&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/ENK_ALL.OGN
 
 E-NK 2020
@@ -47,9 +47,15 @@ http://www.cunimb.net/condor/#w=0&c=52.24478,5.87242&z=10&t=https://raw.githubus
 
 Dag 3:
 http://www.cunimb.net/condor/#w=0&c=52.44454,6.92896&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200521_All.OGN
+
 http://www.cunimb.net/condor/#w=0&c=52.44454,6.92896&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/WLTest2.OGN
+http://www.cunimb.net/condor/#w=0&c=52.44454,6.92896&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/test.txt
+http://www.cunimb.net/condor/#w=0&c=46.98117,2.02746&z=8&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/test.txt
+
 Dag 4:
 http://www.cunimb.net/condor/#w=0&c=45.11800,6.17238&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200522_All.OGN
+http://www.cunimb.net/condor/#w=0&c=45.11800,6.17238&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200522_NF.OGN
+http://www.cunimb.net/condor/#w=0&c=45.11800,6.17238&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200522_F.OGN
 
 Dag 5:
 http://www.cunimb.net/condor/#w=0&c=51.83700,5.49559&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200525_All.OGN
