@@ -47,7 +47,7 @@ http://www.cunimb.net/condor/#w=0&c=52.24478,5.87242&z=10&t=https://raw.githubus
 
 Dag 3:
 http://www.cunimb.net/condor/#w=0&c=52.44454,6.92896&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200521_All.OGN
-
+http://www.cunimb.net/condor/#w=0&c=52.44454,6.92896&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/WLTest2.OGN
 Dag 4:
 http://www.cunimb.net/condor/#w=0&c=45.11800,6.17238&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200522_All.OGN
 
