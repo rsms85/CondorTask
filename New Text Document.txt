@@ -57,17 +57,27 @@ http://www.cunimb.net/condor/#w=0&c=45.11800,6.17238&z=10&t=https://raw.githubus
 http://www.cunimb.net/condor/#w=0&c=45.11800,6.17238&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200522_NF.OGN
 http://www.cunimb.net/condor/#w=0&c=45.11800,6.17238&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200522_F.OGN
 
-Dag 5:
+Dag 5 (25-05-2020):
 http://www.cunimb.net/condor/#w=0&c=51.83700,5.49559&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200525_All.OGN
+http://www.cunimb.net/condor/#w=0&c=51.83700,5.49559&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200525_NF.OGN
+http://www.cunimb.net/condor/#w=0&c=51.83700,5.49559&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200525_F.OGN
 
-Dag 6:
+Dag 6 (26-05-2020):
 http://www.cunimb.net/condor/#w=0&c=44.94860,5.43951&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200526_All.OGN
+http://www.cunimb.net/condor/#w=0&c=44.94860,5.43951&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200526_NF.OGN
+http://www.cunimb.net/condor/#w=0&c=44.94860,5.43951&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200526_F.OGN
 
-Dag 7: Nog up daten! FLAPPED MIST NOG
+Dag 7 (28-05-2020): Nog up daten! FLAPPED MIST NOG
 http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200528_All.OGN
+http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200528_NF.OGN
+http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200528_F.OGN
 
-Dag 8:
+Dag 8 (29-05-2020):
 http://www.cunimb.net/condor/#w=0&c=52.19444,5.90352&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200529_All.OGN
+http://www.cunimb.net/condor/#w=0&c=52.19444,5.90352&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200529_NF.OGN
+http://www.cunimb.net/condor/#w=0&c=52.19444,5.90352&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200529_F.OGN
 
-Dag 9:
+Dag 9 (31-05-2020):
 http://www.cunimb.net/condor/#w=0&c=51.86845,5.87605&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200531_All.OGN
+http://www.cunimb.net/condor/#w=0&c=51.86845,5.87605&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200531_NF.OGN
+http://www.cunimb.net/condor/#w=0&c=51.86845,5.87605&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200531_F.OGN
