@@ -1,0 +1,75 @@
+{"tasks": [
+    {"name": "20200525_F","color": "043ab0",
+	"wlist": ["E.vandillen_YD", "G.Wansink_GAW", "S.vanSchaik_SV5", "P.Appeltans_EA", "S.Landman_T10", "M.Regelink_4R", "G.Elda_6H", "A.Meijer_2J", "C.vHarrewijn_YS", "J.Nieuwenhuijzen_VZ", "C.vanVliet_CVV", "T.Heijden_H3", "W.Bosman_LR", "G.Pijkeren_GPY", "M.Sappe_TP", "J.Telgen_JBT", "D.Roemer_DHR", "F.Mes_MES", "J.Oorthuijsen_WW", "H.Lakeman_LB", "M.Dirx_B39", "K.Brans_H6", "A.deBruijn_2N", "N.Bruin_NBB", "R.Corporaal_WY", "M.Ketelaars_MKX", "J.Kooistra_E5", "T.Rila_H5", "M.Janssen_XV", "B.Seijffert_SEI", "F.Porro_KG", "S.Kruizenga_TK", "B.vanderValk_H4", "R.vanValkengoed_RVV", "J.Jansen_JL", "b.schoemaker_H8", "F.Seijffert_SOI", "S.Low_SL", "J.Lotterman_JLO", "M.Telgen_MAT", "J.Verschoor_76", "P.S_PJS", "B.Baeyens_VIV", "A.Holswilder_AEX", "T.Bruins_IV", "T.B_TT", "J.Hage_H7", "E.deBruin_EDB", "J.vandeVis_IVY", "R.vanRijnberk_H9", "R.Boerma_PWR"],
+	"legs": [ 
+	[52.10000,6.00000],["Q180",5000],
+	[51.65151,5.70154],[500],
+	[51.73333,4.89362],[500],
+	[51.51722,5.85583],[500],
+	[52.03667,6.09167],[500],
+	[52.05833,5.94167],["Q180",1000] ] },
+	
+	{"name": "1", "color": "ffff00",
+	"legs": [ 
+	[51.64917,6.31750],
+	[51.65556,5.91472],
+	[51.56722,5.91056],
+	[51.56167,6.31083],
+	[51.64917,6.31750] ] },
+	
+	{"name": "2", "color": "ffff00",
+	"legs": [ 
+	[52.38361,5.80583],
+	[52.46417,6.00917],
+	[52.41611,6.01639],
+	[52.35778,5.87167],
+	[52.38361,5.80583] ] },
+	
+	{"name": "3", "color": "ffff00",
+	"legs": [ 
+	[53.05389,6.27444],
+	[52.96500,6.37750],
+	[53.21056,6.89722],
+	[53.28750,6.79194],
+	[53.05389,6.27444] ] },
+	
+	{"name": "4", "color": "ffff00",
+	"legs": [ 
+	[52.57444,4.61556],
+	[52.57028,4.89306],
+	[52.05806,4.85361],
+	[52.06694,4.22167],
+	[52.57444,4.61556] ] },
+	
+		{"name": "5", "color": "ffff00",
+	"legs": [ 
+	[51.78667,4.78056],
+	[52.52639,5.70472],
+	[52.78583,4.20444],
+	[51.80389,3.45750],
+	[51.78667,4.78056] ] },
+	
+		{"name": "6", "color": "ffff00",
+	"legs": [ 
+	[51.38556,6.33528],
+	[51.74306,7.33972],
+	[51.01250,7.87194],
+	[51.06139,6.34806],
+	[51.38556,6.33528] ] },
+	
+		{"name": "7", "color": "ffff00",
+	"legs": [ 
+	[52.13611,7.40750],
+	[52.04611,7.46167],
+	[52.12944,7.94722],
+	[52.22194,7.86972],
+	[52.13611,7.40750] ] },
+	
+	{"name": "8","color": "ffff00",
+	"legs": [ 
+    [52.71306,7.06833],
+	[52.35944,7.04444],
+	[52.35306,7.32278],
+	[52.64528,7.33222],
+	[52.71306,7.06833] ] }
+]}
