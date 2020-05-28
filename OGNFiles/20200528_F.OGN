@@ -1,0 +1,10 @@
+{"tasks": [
+    {"name": "20200528_F","color": "043ab0",
+	"wlist": ["G.Wansink_GAW", "C.vHarrewijn_YS", "J.Verschoor_76", "C.vanVliet_CVV", "R.vanValkengoed_RVV", "S.vanSchaik_SV5", "R.vanRijnberk_H9", "J.vanNieuwenhuijzen_VZ", "C.vanHarrewijn_YS", "E.vandillen_YD", "J.vandeVis_IVY", "T.vandeVen_6H", "B.vanderValk_H4", "S.vanderMeer_TU", "T.vanderHeijden_H3", "R.Termaat_SL", "M.Telgen_MAT", "J.Telgen_JBT", "F.Seijffert_SOI", "B.Seijffert_SEI", "B.Schoemaker_H8", "b.schoemaker_H8", "M.Sappé_TP", "M.Sappe_TP", "P.S_PJS", "D.Roemer_DHR", "T.Rila_H5", "M.Regelink_4R", "F.Porro_KG", "G.Pijkeren_GPY", "J.Oorthuijsen_WW", "J.Nieuwenhuijzen_VZ", "F.Messing_MES", "F.Mes_MES", "A.Meijer_2J", "S.Low_SL", "J.Lotterman_JLO", "J.Lauriks_TC3", "S.Landman_T10", "H.Lakeman_LB", "S.Kruizenga_TK", "J.Kooistra_E5", "M.Ketelaars_MKX", "M.Janssen_XV", "J.Jansen_KN3", "J.Jansen_JL", "P.JanSchoonen_PJS", "A.Holswilder_AEX", "T.Heijden_H3", "J.Hage_H7", "G.Elda_6H", "M.Dirx_B39", "R.deRuiter_RER", "E.deBruin_EDB", "A.deBruijn_2N", "R.Corporaal_WY", "O.Cleveringa_A7", "J.BTelgen_JBT", "T.Bruins_IV", "N.Bruin_NBB", "K.Brans_H6", "W.Bosman_LR", "R.Boerma_PWR", "B.Baeyens_VIV", "T.Baeyens_TT", "T.B_TT", "P.Appeltans_EA", "P.Appeltans_D-KYEA"],
+	"legs": [ 
+	[45.26833,5.86833],["Q180",5000],
+	[45.93055,6.91750],[500],
+	[45.18028,6.57917],[500],
+	[45.54417,6.06917],[500],
+	[45.21845,5.84658],["Q180",1000] ] }
+]}
