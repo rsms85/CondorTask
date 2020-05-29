@@ -70,9 +70,9 @@ http://www.cunimb.net/condor/#w=0&c=44.94860,5.43951&z=9&t=https://raw.githubuse
 http://live.glidernet.org/#w=0&c=44.94860,5.43951&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200526_AllWL.OGN
 
 Dag 7 (28-05-2020): Nog up daten! FLAPPED MIST NOG
-http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200528_All.OGN
-http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200528_NF.OGN
-http://www.cunimb.net/condor/#w=0&c=52.05772,5.92323&z=10&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200528_F.OGN
+http://www.cunimb.net/condor/#w=0&c=45.29130,6.14826&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200528_All.OGN
+http://www.cunimb.net/condor/#w=0&c=45.29130,6.14826&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200528_NF.OGN
+http://www.cunimb.net/condor/#w=0&c=45.29130,6.14826&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200528_F.OGN
 
 Dag 8 (29-05-2020):
 http://www.cunimb.net/condor/#w=0&c=52.19444,5.90352&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200529_All.OGN
