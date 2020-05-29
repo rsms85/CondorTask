@@ -76,6 +76,7 @@ http://www.cunimb.net/condor/#w=0&c=45.29130,6.14826&z=9&t=https://raw.githubuse
 
 Dag 8 (29-05-2020):
 http://www.cunimb.net/condor/#w=0&c=52.19444,5.90352&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200529_All.OGN
+http://www.cunimb.net/condor/#w=0&c=52.19444,5.90352&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200529_AllWL.OGN
 http://www.cunimb.net/condor/#w=0&c=52.19444,5.90352&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200529_NF.OGN
 http://www.cunimb.net/condor/#w=0&c=52.19444,5.90352&z=9&t=https://raw.githubusercontent.com/rsms85/CondorTask/master/OGNFiles/20200529_F.OGN
 
